@@ -36,6 +36,7 @@ router.get("/:id", async (req, res) => {
     ],
     // be sure to include its associated Category and Tag data
   });
+  res.json(productData);
 });
 
 // create new product
