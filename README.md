@@ -26,8 +26,11 @@ This project is licensed under the MIT license.
 ## Contributing
 Please contact me for contribution guidelines.
 
-## Walkthrough Youtube Video
-[Walkthrough Video](https://youtu.be/2Z8Q9Z1ZQqo)
+## Walkthrough Videos
+[Seeding & Starting](https://youtu.be/3uoZ9wi7Kc8) <br />
+[Product Routes](https://youtu.be/e4N0_mdNBo8) <br />
+[Tag Routes](https://youtu.be/0jmgYAHqGso) <br />
+[Category Routes](https://youtu.be/dtCGg1ymDzQ)
 
 
 ## Questions
